@@ -1,0 +1,31 @@
+html,
+body {
+  margin: 0;
+  /* padding: 0; */
+  height: 100%;
+  /* width: 100%; */
+}
+/* body{
+    height: 100%;
+    background-size: cover;
+  } */
+* {
+  background-image: linear-gradient(to bottom, #4ba9bf, #101d89);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.container {
+}
+.header {
+  margin-top: 50px;
+}
+.img {
+}
+.img1 {
+  width: 100px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
